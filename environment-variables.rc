@@ -1,2 +1,1 @@
 export LSF_DOCKER_VOLUMES="/storage1/fs1/rvmartin/Active/GEOS-Chem-shared/ExtData:/ExtData /storage1/fs1/rvmartin/Active/intel:/opt/intel/licenses"
-export DISPLAY=localhost:0.0
